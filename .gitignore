@@ -50,3 +50,6 @@ out/
 
 # Visual Studio CMake settings file
 CMakeSettings.json
+
+msvc/Backup
+msvc/x64
