@@ -1,5 +1,7 @@
-# PortAudio - portable audio I/O library
+# PortAudio Fork
+This is a fork of PortAudio used for custom builds. The various build configurations are in branches prefixed with "muse".
 
+# PortAudio - portable audio I/O library
 PortAudio is a portable audio I/O library designed for cross-platform
 support of audio. It uses either a callback mechanism to request audio 
 processing, or blocking read/write calls to buffer data between the 
